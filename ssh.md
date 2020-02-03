@@ -107,3 +107,9 @@ vim /etc/ssh/sshd_config
 systemctl restart sshd
 ```
 
+Пробуем подключиться к серверу 
+
+```bash
+ssh user@server
+```
+
