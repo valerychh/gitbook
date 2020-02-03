@@ -4,7 +4,7 @@
 
 ## Linux
 
-* [SSH](ssh.md)
+* [Gitbook](linux/gitbook.md)
+* [SSH](linux/ssh.md)
 * [Дисковая подсистема и RAID](linux/diskovaya-podsistema-i-raid.md)
-* [Gitbook](gitbook.md)
 
