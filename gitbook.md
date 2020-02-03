@@ -56,7 +56,11 @@ sudo mkdir /var/www/gitbook
 cd /var/www/gitbook
 ```
 
-Сразу же сюда клонируем нашу репу из гитхаба, моя будет создана в папке "gitbook".
+Сразу же сюда клонируем нашу репу из гитхаба, моя будет создана в папке "gitbook":
+
+```bash
+git clone https://github.com/valerychh/gitbook.git
+```
 
 Теперь установим гитбук глобально:
 
