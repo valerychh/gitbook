@@ -4,8 +4,12 @@
 
 ## Linux
 
+* [mdadm](linux/mdadm.md)
 * [Gitbook](linux/gitbook.md)
-* [SSH](ssh.md)
+* [SSH](linux/ssh.md)
 * [Дисковая подсистема и RAID](linux/diskovaya-podsistema-i-raid.md)
-* [mdadm](mdadm.md)
+
+## Linux Beginner <a id="beginner"></a>
+
+* [Копирование файлов в Linux](kopirovanie-failov-v-linux.md)
 
