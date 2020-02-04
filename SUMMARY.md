@@ -11,7 +11,7 @@
 
 ## Linux Beginner <a id="beginner"></a>
 
-* [Копирование файлов в Linux](kopirovanie-failov-v-linux.md)
+* [Копирование файлов в Linux](copy_linux.md)
 
 ## Other
 
