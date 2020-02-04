@@ -90,3 +90,12 @@ Bringing machine 'default' up with 'virtualbox' provider...
 vagrant ssh default
 ```
 
+> Список полезных команд:
+>
+> **vagrant halt** - останавливает ВМ  
+> **vagrant reload** - перезагрузить ВМ  
+> **vagrant destroy** - удаляет ВМ  
+> **vagrant suspend** - "замораживает" ВМ  
+> **vagrant global-status** - выводит список всех ранее созданных ВМ в хост-системе  
+> **vagrant box list** - список доступных \(уже добавленных\) боксов, на основе которых мы можем запускать нашу ВМ
+
