@@ -1,3 +1,7 @@
+---
+description: Основы работы с Vagrant
+---
+
 # Vagrant
 
 ### Установка
