@@ -4,9 +4,10 @@
 
 ## Linux
 
+* [Vagrant](linux/vagrant.md)
 * [Git](linux/git.md)
-* [mdadm](linux/mdadm.md)
 * [Gitbook](linux/gitbook.md)
+* [mdadm](linux/mdadm.md)
 * [SSH](linux/ssh.md)
 
 ## Linux Beginner <a id="beginner"></a>
@@ -15,5 +16,5 @@
 
 ## Other
 
-* [RAID](other/raid.md)
+* [RAID](linux/diskovaya-podsistema-i-raid.md)
 
