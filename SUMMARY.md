@@ -4,6 +4,7 @@
 
 ## Linux
 
+* [Git](linux/git.md)
 * [mdadm](linux/mdadm.md)
 * [Gitbook](linux/gitbook.md)
 * [SSH](linux/ssh.md)
