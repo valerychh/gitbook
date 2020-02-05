@@ -4,6 +4,7 @@
 
 ## Linux
 
+* [Nginx](linux/nginx.md)
 * [Vagrant](linux/vagrant.md)
 * [Git](linux/git.md)
 * [Gitbook](linux/gitbook.md)
